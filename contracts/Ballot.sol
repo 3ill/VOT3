@@ -1,6 +1,12 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.9;
 
+/**
+ * @title Ballot contract
+ * @author 3illBaby
+ * @notice A simple Governance solution
+ */
+
 contract Ballot {
     //? Declared the contract events
     event voterRegistered(address indexed voter);
