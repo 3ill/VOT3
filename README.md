@@ -43,3 +43,5 @@ npx hardhat run --network goerli scripts/deployVot3.js
 ```cli
 0xfFC37826bC4B63caCb6B27885298420b87314619
 ```
+
+<p align="center"><a href="/" target="_blank"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/github.jpg" width="400">Ayaversity Week 1 Task!</a></p>
