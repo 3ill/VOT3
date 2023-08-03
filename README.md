@@ -16,7 +16,7 @@
 ### Clone this repo ⤵
 
 ```cli
-
+git clone https://github.com/3ill/VOT3.git
 ```
 
 ### Install dependencies ⤵
